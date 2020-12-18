@@ -1,0 +1,8 @@
+In this revision period:
+
+1. Arrays
+2. Conditional statements
+3. Loops
+4. Functions
+5. Recursion
+6. Structures
